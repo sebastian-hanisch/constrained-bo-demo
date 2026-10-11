@@ -1,7 +1,6 @@
 # Nebenbedingungen: günstig und trotzdem zulässig – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-constrained-bo-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-constrained-bo-demo.streamlit.app/)**
 
 Viertes Stück der **Bayessche-Optimierung-Linie** in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“.
 Es setzt [noisy-bo-demo](https://github.com/sebastian-hanisch/noisy-bo-demo) fort: dort war die Auswertung verrauscht, hier ist es die **Grenze**, an der die Empfehlung
